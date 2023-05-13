@@ -78,7 +78,7 @@ img{
 }
 
 #buy button{
-    background-color: darkorange;
+    background-color: rgb(255, 136, 0);
     text-align: center;
     font-size: 20px;
     width: 150px;
@@ -87,12 +87,45 @@ img{
     border-radius: 10px;
 }
 #rent button{
-    color: darkorange;
-    border: 1px solid darkorange;
+    color: rgb(255, 136, 0);
+    border: 5px solid rgb(255, 136, 0);
     background-color: white;
     width: 150px;
     height: 50px;
     font-size: 20px;
     border-radius: 10px;
 }   
+.container {
+    margin: 30x;
+    padding: 20px;
+   
+
+}
+#Rated {
+    width: 16px;
+    height: px;
+    padding: auto;
+    margin: auto;
+    /* overflow: auto; */
+}
+
+.gallary img{
+    width: auto;
+    height: 100px;
+    /* display: flex; */
+
+}
+
+#Explore{
+    font-size: 35px;
+    text-align: center;
+    width: 100px;
+    border-radius: 10px;
+
+}
+span{
+    color: rgb(255, 136, 0);
+    font-size: 40px;
+}
+    
 
