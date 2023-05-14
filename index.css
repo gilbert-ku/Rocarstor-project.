@@ -135,7 +135,7 @@ span{
     
 }
 .brand-type{
-    border: 2px solid gray;
+    /* border: 2px solid gray; */
     
 }
 img{
@@ -144,10 +144,51 @@ img{
     margin: 10px;
 
 }
+.car-two {
+    display: flex;
+
+}
+.parent {
+    display: flex;
+}
 #container {
-    height: 450px;
+    /* height: px; */
     width: 90vw;
-    background-color: aliceblue;
+    background-color: white;
+    display: flex;
+}
+
+.logo-store {
+    width: 200px;
+    height: 80px;
+    background-color:blue;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+}
+#app{
+    background-image: url(./Mobiles-store/App-store.png);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+}
+#Google {
+    background-image: url(./Mobiles-store/Google-play-store.png);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+
+}
+#stores {
+    display: flex;
+
+}
+.intro {
+    text-align: center;
 }
     
 
