@@ -6,7 +6,7 @@
 nav{
     height: 85px;
     width: 100%;
-    /* background-color: aquamarine; */
+    
 }
 label.logo{
     font-size: 50px;
@@ -19,18 +19,18 @@ label.logo{
 .header{
     display: flex;
     justify-content: space-between;
-    /* background-color: gray; */
+    
 }
 
 #one{
-    /* float: right; */
+    
     text-align: center; 
 }
 #one ul li{
     font-size: 25px;
     display: inline-block;
     line-height: 60px;
-    /* text-justify:  */
+    
     padding: 20px;
     
 }
@@ -39,7 +39,7 @@ label.logo{
     font-size: 25px;
     display: inline-block;
     line-height: 60px;
-    /* text-justify: inter-word; */
+    
     padding: 10px;
     padding-right: 50px;
 }
@@ -61,27 +61,27 @@ label.logo{
     font-size: 40px;
     width: 50vw;
     height: 300px;
-    /* background-color: aqua; */
+    
 }
 #button {
     display: flex;
-    /* justify-content: space-between; */
+
     padding: 0;
     margin: 0;
-    /* background-color: darkorange; */
+    
 }
 #buy {
     margin: 30px;
     padding-right: 80px;
-    /* background-color: darkorange; */
+    
 }
 #rent{
     margin: 30px;
 }
 img{
-    /* width: ; */
-    height: 400px;
-    /* background-image: url(image\ 1.png); */
+    width: 300;
+    height: 250px;
+    
     
 }
 
@@ -110,19 +110,6 @@ img{
    
 
 }
-/*#Rated {
-    width: 16px;
-    height: px;
-    padding: auto;
-    margin: auto;
-     overflow: auto; 
-
-.gallary img{
-    width: auto;
-    height: 100px;
-    /* display: flex; 
-
-}*/
 .Rated {
     display: flex;
 
@@ -191,36 +178,66 @@ span{
 
 .cars {
     margin: 15px;
-    padding: auto;
+    padding: 15px;
     display: flex;
+    border: none;
     
 }
 .brand-type{
-    border: 2px ; 
+    border: 2px solid whitesmoke; 
     padding: 5px;
-    margin: 5px;
+    margin: 20px;
     width: 25vw;
+    border-radius: 5px;
+    box-shadow: 5px 5px whitesmoke;
     
 }
 img{
     width: 25vw; 
-    padding: 10px;
-    margin: 10px;
+    padding: 1px;
+    margin: 1px;
 
 }
 .car-two {
+    margin: 15px;
+    padding: 15px;
     display: flex;
+    border: none;
+
 
 }
+.brand-type-two {
+    border: none; 
+    padding: 5px;
+    margin: 20px;
+    width: 25vw;
+    border-radius: 5px;
+    box-shadow: 5px 5px whitesmoke;
+    
+}
 .parent {
-    display: flex;
+    display: flex; 
+    margin: 5px;
+    padding: 8px;
 }
 #container {
-    /* height: px; */
+    
     width: 90vw;
     background-color: white;
     display: flex; 
     -ms-flex-align: center;
+
+}
+.comment {
+    text-align: center;
+}
+
+.feedback {
+    text-align: center;
+    border:none;
+    width: 500px;
+    padding: 10px;
+    margin: 30px;
 }
 .download {
     display: flex;
@@ -258,7 +275,7 @@ img{
 
 }
 #stores {
-    /* display: flex; */
+    
     justify-content: space-between;
 
 
