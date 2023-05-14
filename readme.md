@@ -1,17 +1,17 @@
-#ROCASTOR AUTOMOTIVE
+# ROCASTOR AUTOMOTIVE
 
 #### By Gilbert Kutoto
 
-##Setup.
+## Setup.
 I had to setup all my necessary images and link to my project folder before I started working.
 
-##Live Demo
+## Live Demo
 https://gilbert-ku.github.io/Rocarstor-project./
 
-##Contacts
+## Contacts
 gilbert45ku@gmail.com
 
-##Lincese
+## Lincese
 [Copyright (c) [2023] [Gilbert Kutoto]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
