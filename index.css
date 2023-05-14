@@ -43,6 +43,14 @@ label.logo{
     padding: 10px;
     padding-right: 50px;
 }
+.get {
+    font-size: 25px;
+    background-color: rgb(255, 136, 0);
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+}
 .main {
     display: flex;
     margin: 10px;
@@ -98,23 +106,76 @@ img{
 .container {
     margin: 30x;
     padding: 20px;
+    
    
 
 }
-#Rated {
+/*#Rated {
     width: 16px;
     height: px;
     padding: auto;
     margin: auto;
-    /* overflow: auto; */
-}
+     overflow: auto; 
 
 .gallary img{
     width: auto;
     height: 100px;
-    /* display: flex; */
+    /* display: flex; 
+
+}*/
+.Rated {
+    display: flex;
 
 }
+.gallary{
+    width: 200px;
+    height: 100px;
+}
+#benz {
+    background-image: url(./logo/mercedes-benz_LOGO.jpg);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+}
+#Audi {
+    background-image: url(./logo/Audi-logo.jpg);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+}
+#honda {
+    background-image: url(./logo/honda-logo.png);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+}
+#toyota {
+    background-image: url(./logo/logo-toyota.png);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+}
+#mazda {
+    background-image: url(./logo/mazda-logo.png);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+}
+#Explore {
+    background-color: white;
+    border-radius: 5px;
+}
+
 
 #Explore{
     font-size: 35px;
@@ -135,11 +196,14 @@ span{
     
 }
 .brand-type{
-    /* border: 2px solid gray; */
+    border: 2px ; 
+    padding: 5px;
+    margin: 5px;
+    width: 25vw;
     
 }
 img{
-    width: 30vw;
+    width: 25vw; 
     padding: 10px;
     margin: 10px;
 
@@ -155,7 +219,12 @@ img{
     /* height: px; */
     width: 90vw;
     background-color: white;
+    display: flex; 
+    -ms-flex-align: center;
+}
+.download {
     display: flex;
+    flex-direction: column;
 }
 
 .logo-store {
@@ -183,12 +252,32 @@ img{
     border: none;
 
 }
-#stores {
+.footer {
     display: flex;
+    justify-content: space-between;
 
 }
-.intro {
-    text-align: center;
+#stores {
+    /* display: flex; */
+    justify-content: space-between;
+
+
+}
+#download {
+    margin-left: 50%;
+    
+}
+#download>img {
+    height: 400px;
+    width: 200px;
+}
+
+.footer {
+    display: flex;
+    -ms-flex-align: center;
+    padding: 20px;
+    margin: 20px;
+
 }
     
 
