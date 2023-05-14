@@ -127,5 +127,22 @@ span{
     color: rgb(255, 136, 0);
     font-size: 40px;
 }
+
+.cars {
+    margin: 15px;
+    padding: auto;
+    display: flex;
+    
+}
+.brand-type{
+    border: 2px solid gray;
+    
+}
+img{
+    width: 30vw;
+    padding: 10px;
+    margin: 10px;
+
+}
     
 
