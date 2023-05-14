@@ -1,3 +1,4 @@
+![51491313-76a5-47e6-b423-2090d4ac9279](https://github.com/gilbert-ku/Rocarstor-project./assets/125896467/22e4c97c-466e-467d-bfe2-5a4d89b9731b)
 # ROCASTOR AUTOMOTIVE
 
 #### By Gilbert Kutoto
