@@ -287,22 +287,6 @@ img{
     margin: 5px;
     padding: 10px;
 }
-/* #app{
-    background-image: url(./Mobiles-store/App-store.png);
-    background-size: contain;
-    background-repeat: no-repeat; 
-    background-color: white;
-    border-radius: 5px;
-    border: none;
-}
-#Google {
-    background-image: url(./Mobiles-store/Google-play-store.png);
-    background-size: contain;
-    background-repeat: no-repeat; 
-    background-color: white;
-    border-radius: 5px;
-    border: none; */
-
 
 .App {
     width: 90vw;
@@ -328,9 +312,16 @@ img{
 }
 .App .booking {
     width: 300px;
+    margin-top: 10rem;
+    
 }
 .App .Download {
     height: fit-content;
+    margin-top: 10rem;
+
+}
+.app-images{
+    margin-right: 100px;
 }
 #carss {
     margin-top: -50px;
