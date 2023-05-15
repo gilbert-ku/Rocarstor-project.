@@ -137,55 +137,51 @@ img{
     margin: 30x;
     padding: 20px;
     
+    
+}
+.gallary {
+    width: 15%;
+    height: 5rem;
+    margin-right: 2rem;
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+.gallary img {
+    width: 90%;
+    /* height: 100%; */
+    height: fit-content;
 }
 
 .Rated {
     display: flex;
 
 }
+/* .Rated ul .gallary{
+    width: 200px;
+    height: 100px;
+} */
+/* .Rated ul {
+    width: 100px;
+  
+}
+.Rated button ul {
+    width: 1px;
+    height: 
+    
+}git 
+button{
+    width: 
+}
+.gallary {
+    width: 300px;
+    height: 70px;
+} */
+
+/* }
 .gallary{
     width: 200px;
     height: 100px;
-}
-#benz {
-    background-image: url(./logo/mercedes-benz_LOGO.jpg);
-    background-size: contain;
-    background-repeat: no-repeat; 
-    background-color: white;
-    border-radius: 5px;
-    border: none;
-}
-#Audi {
-    background-image: url(./logo/Audi-logo.jpg);
-    background-size: contain;
-    background-repeat: no-repeat; 
-    background-color: white;
-    border-radius: 5px;
-    border: none;
-}
-#honda {
-    background-image: url(./logo/honda-logo.png);
-    background-size: contain;
-    background-repeat: no-repeat; 
-    background-color: white;
-    border-radius: 5px;
-    border: none;
-}
-#toyota {
-    background-image: url(./logo/logo-toyota.png);
-    background-size: contain;
-    background-repeat: no-repeat; 
-    background-color: white;
-    border-radius: 5px;
-    border: none;
-}
-#mazda {
-    background-image: url(./logo/mazda-logo.png);
-    background-size: contain;
-    background-repeat: no-repeat; 
-    background-color: white;
-    border-radius: 5px;
-    border: none;
+
 }
 #get {
     background-color: white;
@@ -209,7 +205,8 @@ img{
 span{
     color: rgb(255, 136, 0);
     font-size: 40px;
-}
+} */
+
 
 .cars {
     margin: 15px;
