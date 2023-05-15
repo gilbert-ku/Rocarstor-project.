@@ -2,7 +2,9 @@
     list-style: none;
     padding: 0px;
     margin: 0px;
+
 }
+
 nav{
     height: 85px;
     width: 100%;
@@ -30,10 +32,10 @@ label.logo{
     font-size: 25px;
     display: inline-block;
     line-height: 60px;
-    
     padding: 20px;
     
 }
+
 #two ul li{
     
     font-size: 25px;
@@ -42,6 +44,13 @@ label.logo{
     
     padding: 10px;
     padding-right: 50px;
+
+}
+.image1{
+    border: 2px solid whitesmoke;
+    box-shadow: 5px 5px whitesmoke;
+    border-radius: 8px;
+
 }
 .get {
     font-size: 25px;
@@ -56,6 +65,20 @@ label.logo{
     margin: 10px;
     padding: 30px;
     
+}
+.icon-user{
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    background-image: url(Icon/user.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 15px;
 }
 .text {
     font-size: 40px;
@@ -106,9 +129,8 @@ img{
     margin: 30x;
     padding: 20px;
     
-   
-
 }
+
 .Rated {
     display: flex;
 
