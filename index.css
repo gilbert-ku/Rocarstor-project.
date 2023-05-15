@@ -151,6 +151,15 @@ img{
     height: 100%; 
     /* height: fit-content; */
 }
+span {
+    color: rgb(255, 136, 0);
+    font-size: 30px;
+
+}
+#explo {
+    font-size: 30px;
+    
+}
 
 .Rated {
     display: flex;
@@ -377,7 +386,7 @@ ul li {
 
 }.form {
     font-size: 20;
-    border: 2px solid rgb(255, 136, 0);;
+    border: 2px solid rgb(255, 136, 0);
 }
 input {
      font-size: medium; 
