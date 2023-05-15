@@ -148,8 +148,8 @@ img{
 }
 .gallary img {
     width: 90%;
-    height: 100%; 
-    /* height: fit-content; */
+    /* height: 100%;  */
+    height: fit-content; 
 }
 span {
     color: rgb(255, 136, 0);
@@ -202,19 +202,7 @@ button{
     border-radius: 5px;
     border: 2px solid rgb(255, 136, 0);;
 }
-
-
-#Explore{
-    font-size: 35px;
-    text-align: center;
-    width: 100px;
-    border-radius: 10px;
-
-}
-span{
-    color: rgb(255, 136, 0);
-    font-size: 40px;
-} */
+*/
 
 
 .cars {
