@@ -230,7 +230,7 @@ span{
 img{
     width: 25vw; 
     padding: 1px;
-    margin: 1px;
+    margin: 1px; 
 
 }
 .car-two {
@@ -287,7 +287,7 @@ img{
     margin: 5px;
     padding: 10px;
 }
-#app{
+/* #app{
     background-image: url(./Mobiles-store/App-store.png);
     background-size: contain;
     background-repeat: no-repeat; 
@@ -301,8 +301,51 @@ img{
     background-repeat: no-repeat; 
     background-color: white;
     border-radius: 5px;
-    border: none;
+    border: none; */
 
+
+.App {
+    width: 90vw;
+    height: 300px;
+    border: 2px solid gray;
+    background-color: aliceblue;
+    box-shadow: 5px 6px 5px gray;
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+    gap: 90px;
+    border-radius: 8px;
+
+}
+.App p{
+    margin-left: 1rem;
+}
+.App .app-images {
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.App .booking {
+    width: 300px;
+}
+.App .Download {
+    height: fit-content;
+}
+#carss {
+    margin-top: -50px;
+    margin-bottom: -20px;
+    height: 400px;
+    width: 200px;
+}
+#iphone{
+    height: 200px;
+    width: 400px;
+
+}
+#android {
+    height: 80px;
+    width: 180px;
 }
 .footer {
     display: flex;
