@@ -313,15 +313,15 @@ img{
 .App .booking {
     width: 300px;
     margin-top: 10rem;
-    
+    background-color: aliceblue;
 }
 .App .Download {
-    height: fit-content;
-    margin-top: 10rem;
+    /* height: fit-content; */
+    margin-top: -8rem;
 
 }
 .app-images{
-    margin-right: 100px;
+    margin-right: 1px;
 }
 #carss {
     margin-top: -50px;
@@ -330,13 +330,13 @@ img{
     width: 200px;
 }
 #iphone{
-    height: 200px;
-    width: 400px;
+    height: 80px;
+    width: 250px;
 
 }
 #android {
     height: 80px;
-    width: 180px;
+    width: 200px;
 }
 .footer {
     display: flex;
@@ -360,11 +360,11 @@ ul li {
 
 .download { 
     display: flex;
-    margin-left: 300px;
+    margin-left: 30px;
     /* border: 2px solid bisque; */
 }
 #download {
-    margin-right: 300px;
+    margin-right: 30px;
     
 }
 #download>img {
