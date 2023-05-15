@@ -144,7 +144,9 @@ img{
     height: 5rem;
     margin-right: 2rem;
     border-radius: 10px;
-    border: 2px solid gray;
+    border: none;
+    background-color: white;
+    box-shadow: 5px 6px  whitesmoke;
 }
 .gallary img {
     width: 90%;
