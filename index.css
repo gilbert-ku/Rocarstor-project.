@@ -186,7 +186,7 @@ span{
     padding: 15px;
     display: flex;
     border: none;
-    
+
 }
 .brand-type{
     border: 2px solid whitesmoke; 
@@ -284,13 +284,23 @@ ul li {
     margin-left: 10px;
 }
 #stores {
-    
+    display: flex;
     justify-content: space-between;
 
 
 }
+#container {
+    display: flex;
+    /* border: 2px solid bisque; */
+}
+
+.download { 
+    display: flex;
+    margin-left: 300px;
+    /* border: 2px solid bisque; */
+}
 #download {
-    margin-left: 50%;
+    margin-right: 300px;
     
 }
 #download>img {
