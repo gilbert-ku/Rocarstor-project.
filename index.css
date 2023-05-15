@@ -74,6 +74,14 @@ label.logo{
     background-size: contain;
     background-repeat: no-repeat;
 }
+.icon-briefcase {
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    background-image: url(Icon/briefcase.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 .icon{
     display: flex;
     justify-content: space-between;
