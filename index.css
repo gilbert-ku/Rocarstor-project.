@@ -148,8 +148,8 @@ img{
 }
 .gallary img {
     width: 90%;
-    /* height: 100%; */
-    height: fit-content;
+    height: 100%; 
+    /* height: fit-content; */
 }
 
 .Rated {
